@@ -1,18 +1,3 @@
-,0
-roll50_winrate,706
-roll50_buy_ratio,624
-Execution_Price_z,623
-roll50_intertrade_mean,515
-roll50_avg_size_usd,419
-roll50_pnl_std,419
-value_7d_mean,410
-roll50_pnl_mean,364
-is_buy,260
-Size_USD_z,253
-value_3d_mean,250
-value,223
-log_size_usd,218
-sentiment_x_rollwin,209
-value_lag1,196
-sentiment_x_size,67
-sentiment_cat_num,4
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc72d720021c4de731e34cfa6705e469b31ed671694c0103b2f0bd5176fd5b02
+size 323
