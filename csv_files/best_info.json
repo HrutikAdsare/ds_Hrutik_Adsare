@@ -1,0 +1,12 @@
+{
+  "best_model": "random_forest",
+  "best_threshold": 0.51,
+  "metrics": {
+    "best_threshold": 0.51,
+    "accuracy": 0.897797252486973,
+    "f1": 0.8576800026386094,
+    "precision": 0.8898774895626582,
+    "recall": 0.8277310924369747,
+    "roc_auc": 0.9625212356572628
+  }
+}
