@@ -32,7 +32,7 @@ This repository is structured as per the assignment instructions:
 ## 🚀 Quick Links
 
 -   **Google Colab Notebook:** [Open notebook_1.ipynb in
-    Colab](YOUR_COLAB_LINK_HERE) *(Set to 'Anyone with the link can
+    Colab](https://colab.research.google.com/drive/1N--eMl3-BNy8thEsz-VuiJMoknGaYQZa?usp=sharing) *(Set to 'Anyone with the link can
     view')*
 -   **Fear & Greed Index Data:**
     [Download](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWC_mnrYv_nh5f/view?usp=sharing)
@@ -51,7 +51,7 @@ trading strategies.
 The entire analysis is built in **Google Colab** and requires no local
 setup. To run it:
 
-1.  Open the main notebook: [notebook_1.ipynb](YOUR_COLAB_LINK_HERE)
+1.  Open the main notebook: [notebook_1.ipynb](https://colab.research.google.com/drive/1N--eMl3-BNy8thEsz-VuiJMoknGaYQZa?usp=sharing)
 2.  Ensure you are logged into a Google account.
 3.  Runtime -\> Run all
     -   The notebook will automatically mount Google Drive, install
@@ -175,5 +175,4 @@ scaler = joblib.load('csv_files/scaler.pkl')
 
 **Note for Reviewers:** Thank you for your time and consideration. The
 complete end-to-end pipeline is contained in `notebook_1.ipynb`. All
-outputs and artifacts are saved in the designated folders. I look
-forward to discussing the insights and methodology further.
+outputs(except model file) are saved in the designated folders.
